@@ -1,0 +1,15 @@
+User-agent: *
+
+
+# 允许访问主要页面
+Allow: /$
+Allow: /about
+Allow: /terms
+Allow: /privacy_policy
+
+
+# 允许访问静态资源
+Allow: /images/
+Allow: /css/
+Allow: /js/
+

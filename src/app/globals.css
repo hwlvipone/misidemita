@@ -1,0 +1,81 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.masonry-grid {
+  column-count: 3;
+  column-gap: 1rem;
+}
+
+.masonry-item {
+  break-inside: avoid;
+  margin-bottom: 1rem;
+}
+
+@media (max-width: 768px) {
+  .masonry-grid {
+    column-count: 2;
+  }
+}
+
+@media (max-width: 480px) {
+  .masonry-grid {
+    column-count: 1;
+  }
+}
+
+@layer utilities {
+  .text-shadow {
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+  }
+  .text-shadow-lg {
+    text-shadow: 4px 4px 8px rgba(0, 0, 0, 0.5);
+  }
+}
+
+@font-face {
+  font-family: 'GameFont';
+  src: url('/path/to/your/game-font.woff2') format('woff2');
+}
+
+.font-game {
+  font-family: 'GameFont', sans-serif;
+}
+
+
+
+
+@layer components {
+  .blog-content a {
+    @apply text-blue-400 hover:text-blue-300 transition-colors duration-200 underline;
+  }
+
+  .blog-content p {
+    @apply mb-4 text-gray-300;
+  }
+
+  .blog-content h2 {
+    @apply text-2xl font-bold text-yellow-400 mt-8 mb-4;
+  }
+
+  .blog-content h3 {
+    @apply text-xl font-semibold text-yellow-300 mt-6 mb-3;
+  }
+
+  .blog-content ul, .blog-content ol {
+    @apply my-4 ml-6;
+  }
+
+  .blog-content li {
+    @apply mb-2;
+  }
+
+  .blog-content strong {
+    @apply text-white;
+  }
+
+  .blog-content blockquote {
+    @apply border-l-4 border-blue-500 pl-4 italic my-4;
+  }
+}

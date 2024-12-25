@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="edb6cd0f-32a0-4568-93a9-334b9079e8e3" name="更改" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="TypeScript JSX File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2nCJXiSM4YWy7iDYN5PlHhaZk0E" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/nextWork/poe2tree&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.standard&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.standard&quot;: &quot;&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;D:\\nextWork\\poe2tree\\node_modules\\typescript\\lib&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\nextWork\notionbackps\src\components" />
+      <recent name="D:\nextWork\notionbackps\src\app\[locale]\restore" />
+      <recent name="D:\nextWork\notionbackps\src\images" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-1d06a55b98c1-91d5c284f522-JavaScript-PY-241.15989.155" />
+        <option value="bundled-python-sdk-babbdf50b680-7c6932dee5e4-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-241.15989.155" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="edb6cd0f-32a0-4568-93a9-334b9079e8e3" name="更改" comment="" />
+      <created>1728471167412</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1728471167412</updated>
+      <workItem from="1728471169249" duration="765000" />
+      <workItem from="1728481040265" duration="327000" />
+      <workItem from="1728481447505" duration="3570000" />
+      <workItem from="1728544060630" duration="2800000" />
+      <workItem from="1728547546756" duration="1511000" />
+      <workItem from="1728560562181" duration="5425000" />
+      <workItem from="1728614085933" duration="9030000" />
+      <workItem from="1728659574840" duration="4533000" />
+      <workItem from="1728702630115" duration="977000" />
+      <workItem from="1730209196950" duration="115000" />
+      <workItem from="1730271650283" duration="828000" />
+      <workItem from="1730273575184" duration="39000" />
+      <workItem from="1730274386714" duration="1783000" />
+      <workItem from="1730276931036" duration="13092000" />
+      <workItem from="1730298721781" duration="7187000" />
+      <workItem from="1730345455808" duration="1092000" />
+      <workItem from="1730472241876" duration="3312000" />
+      <workItem from="1730476904616" duration="65000" />
+      <workItem from="1730524018170" duration="495000" />
+      <workItem from="1730855996731" duration="1476000" />
+      <workItem from="1733806168401" duration="3223000" />
+      <workItem from="1733837028900" duration="144000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
