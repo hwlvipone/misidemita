@@ -112,7 +112,7 @@ export default async function LocaleLayout({
                     </main>
                     <Footer />
                 </NextIntlClientProvider>
-                <GoogleAnalytics gaId="G-ZH84RZRDTE" />
+                <GoogleAnalytics gaId="G-TX9Z9GNCXR" />
             </body>
         </html>
     )
