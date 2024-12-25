@@ -69,9 +69,9 @@ const PrivacyPolicy: NextPage<PrivacyPolicyProps> = async ({ params: { locale } 
 
 <p className="mb-8">Welcome to <b> ALBACUB</b>.</p>
 
-<p className="mb-8"><b>ALBACUB</b> (“us”, “we”, or “our”) operates <b>misidemods.com</b> (hereinafter referred to as <b>“Service”</b>).</p>
+<p className="mb-8"><b>ALBACUB</b> (“us”, “we”, or “our”) operates <b>misidemita.net</b> (hereinafter referred to as <b>“Service”</b>).</p>
 
-<p className="mb-8">Our Privacy Policy governs your visit to <b>misidemods.com</b>, and explains how we collect, safeguard and disclose information that results from your use of our Service.</p>
+<p className="mb-8">Our Privacy Policy governs your visit to <b>misidemita.net</b>, and explains how we collect, safeguard and disclose information that results from your use of our Service.</p>
 
 <p className="mb-8">We use your data to provide and improve Service. By using Service, you agree to the collection and use of information in accordance with this policy. Unless otherwise defined in this Privacy Policy, the terms used in this Privacy Policy have the same meanings as in our Terms and Conditions.</p>
 
@@ -79,7 +79,7 @@ const PrivacyPolicy: NextPage<PrivacyPolicyProps> = async ({ params: { locale } 
 
 <p className="mb-8">2. <b>Definitions</b></p>
 
-<p className="mb-8"><b>SERVICE</b> means the misidemods.com website operated by ALBACUB.</p>
+<p className="mb-8"><b>SERVICE</b> means the misidemita.net website operated by ALBACUB.</p>
 
 <p className="mb-8"><b>PERSONAL DATA</b> means data about a living individual who can be identified from those data (or from those and other information either in our possession or likely to come into our possession).</p> 
 
@@ -206,7 +206,7 @@ const PrivacyPolicy: NextPage<PrivacyPolicyProps> = async ({ params: { locale } 
 
 <p className="mb-8">If you are a resident of the European Union (EU) and European Economic Area (EEA), you have certain data protection rights, covered by GDPR.</p>
 <p className="mb-8">We aim to take reasonable steps to allow you to correct, amend, delete, or limit the use of your Personal Data.</p>
-<p className="mb-8"> If you wish to be informed what Personal Data we hold about you and if you want it to be removed from our systems, please email us at <b>support@misidemods.com</b>.</p>
+<p className="mb-8"> If you wish to be informed what Personal Data we hold about you and if you want it to be removed from our systems, please email us at <b>support@misidemita.net</b>.</p>
 <p className="mb-8">In certain circumstances, you have the following data protection rights:</p>
 <p className="mb-8">0.1. the right to access, update or to delete the information we have on you;</p>
 <p className="mb-8">0.2. the right of rectification. You have the right to have your information rectified if that information is inaccurate or incomplete;</p>
@@ -224,7 +224,7 @@ const PrivacyPolicy: NextPage<PrivacyPolicyProps> = async ({ params: { locale } 
 <p className="mb-8">0.1. users can visit our site anonymously;</p>
 <p className="mb-8">0.2. our Privacy Policy link includes the word “Privacy”, and can easily be found on the home page of our website;</p>
 <p className="mb-8">0.3. users will be notified of any privacy policy changes on our Privacy Policy Page;</p>
-<p className="mb-8">0.4. users are able to change their personal information by emailing us at <b>support@misidemods.com</b>.</p>
+<p className="mb-8">0.4. users are able to change their personal information by emailing us at <b>support@misidemita.net</b>.</p>
 <p className="mb-8">Our Policy on “Do Not Track” Signals:</p>
 <p className="mb-8">We honor Do Not Track signals and do not track, plant cookies, or use advertising when a Do Not Track browser mechanism is in place. Do Not Track is a preference you can set in your web browser to inform websites that you do not want to be tracked.</p>
 <p className="mb-8">You can enable or disable Do Not Track by visiting the Preferences or Settings page of your web browser.</p>
@@ -245,7 +245,7 @@ const PrivacyPolicy: NextPage<PrivacyPolicyProps> = async ({ params: { locale } 
 <p className="mb-8"><b>0.3. To stop selling your personal information. We don’t sell or rent your personal information to any third parties for any purpose. We do not sell your personal information for monetary consideration. However, under some circumstances, a transfer of personal information to a third party, or within our family of companies, without monetary consideration may be considered a “sale” under California law. You are the only owner of your Personal Data and can request disclosure or deletion at any time.</b></p>
 <p className="mb-8">If you submit a request to stop selling your personal information, we will stop making such transfers.</p>
 <p className="mb-8">Please note, if you ask us to delete or stop selling your data, it may impact your experience with us, and you may not be able to participate in certain programs or membership services which require the usage of your personal information to function. But in no circumstances, we will discriminate against you for exercising your rights.</p>
-<p className="mb-8">To exercise your California data protection rights described above, please send your request(s) by email: <b>support@misidemods.com</b>.</p>
+<p className="mb-8">To exercise your California data protection rights described above, please send your request(s) by email: <b>support@misidemita.net</b>.</p>
 <p className="mb-8">Your data protection rights, described above, are covered by the CCPA, short for the California Consumer Privacy Act. To find out more, visit the official California Legislative Information website. The CCPA took effect on 01/01/2020.</p>
 
 <p className="mb-8">13. <b>Service Providers</b></p>

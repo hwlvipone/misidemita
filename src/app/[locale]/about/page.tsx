@@ -13,7 +13,7 @@ export default function About() {
               Breaking Barriers, One Conversation at a Time
             </h2>
             <p className="mt-4 text-lg text-gray-500">
-              At misidemods.com, we believe that language should never be a barrier to human connection. Our journey began with a simple yet powerful idea: what if we could make real-time translation as easy as having a conversation?
+              At misidemita.net, we believe that language should never be a barrier to human connection. Our journey began with a simple yet powerful idea: what if we could make real-time translation as easy as having a conversation?
             </p>
             <div className="mt-6 prose prose-indigo prose-lg text-gray-500">
               <p>
