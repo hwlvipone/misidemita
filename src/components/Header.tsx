@@ -22,6 +22,7 @@ export function Header() {
                             <NavLink href="/#primary-features">{t('features')}</NavLink>
                             <NavLink href="/#testimonials">{t('testimonials')}</NavLink>
                             <NavLink href="/#faqs">{t('faqs')}</NavLink>
+                            <NavLink href="https://www.misidemods.com/" target="_blank">Mods</NavLink>
                         </div>
                     </div>
                     <div className="flex items-center gap-x-5 md:gap-x-8">

@@ -19,6 +19,7 @@ export function Footer() {
               <NavLink href="/#primary-features">{t('quickLinks.features')}</NavLink>
               <NavLink href="/#testimonials">{t('quickLinks.testimonials')}</NavLink>
               <NavLink href="/#faqs">{t('quickLinks.faqs')}</NavLink>
+              <NavLink href="https://www.misidemods.com/" target="_blank">Mods</NavLink>
               <NavLink href="/terms">{t('quickLinks.terms')}</NavLink>
               <NavLink href="/privacy_policy">{t('quickLinks.privacyPolicy')}</NavLink>
             </div>

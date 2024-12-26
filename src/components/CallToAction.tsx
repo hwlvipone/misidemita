@@ -31,7 +31,7 @@ export function CallToAction() {
             {t('description')}
           </p>
           <Button 
-            href="/planner" 
+            href="/" 
             className="mt-10 bg-red-600 hover:bg-red-700 text-white px-8 py-3 rounded-lg font-bold uppercase tracking-wide transition-all duration-300 transform hover:scale-105 hover:shadow-lg hover:shadow-red-500/50"
           >
             {t('buttonText')}
